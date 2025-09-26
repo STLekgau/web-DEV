@@ -1,4 +1,4 @@
-# web-DEV
+# web-DEV Part 1
 1. Organization Overview
 Name: T-Exotics Founded in 2012 by Tumisho Lekgau, T-Exotics is a private dealership specializing in rare and exotic vehicles—from vintage classics to the latest high-performance models. Initially struggling with visibility, the dealership gained traction in 2014 and now targets petrolheads and car enthusiasts with a passion for unique automobiles. The company’s mission is to sell rare cars across South Africa and eventually expand internationally.
 2. Website Goals and Objectives
